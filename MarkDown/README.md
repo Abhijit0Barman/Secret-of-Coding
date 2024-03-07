@@ -1,10 +1,13 @@
 
 # hello h1
-## hello h2
-### hello h3
-#### hello h4
-##### hello h5
 
+## hello h2
+
+### hello h3
+
+#### hello h4
+
+##### hello h5
 
 _Italic_
 *Italic*
@@ -14,7 +17,7 @@ __hellow fellow devs__
 
 ___hellow fellow devs___
 __*hellow fellow devs*__
-***Bold***
+*__Bold__*
 **_Bold_**
 
 ~~hello~~ ***world**
@@ -55,22 +58,21 @@ Tables
 
 - learn javascript
 - learn html
-   - you understand
+  - you understand
 - learn css
-   - ok
+  - ok
 
 ***
 
-
-* same
+- same
    1.hello
    1.world
-   * learn everyday 
-   * learn everyday 
-* thing
+  - learn everyday
+  - learn everyday
+- thing
 
-+ 1st line
-    * 2nd line
+- 1st line
+  - 2nd line
         1. 3rd line
         1. 4th line
             - 5th line
@@ -86,7 +88,8 @@ X~subscript~
 a<sup>2</sup>
 a<sub>2<sub>
 H<sub>2</sub>O
-#  a<sub>2<sub>0</sub>5<sup>5
+
+# a<sub>2<sub>0</sub>5<sup>5
 
 :smile:
 😄
@@ -103,6 +106,5 @@ H<sub>2</sub>O
 5.Repeat
    3.shh
 
-   
 - [ ] hello
 - [x] hello
