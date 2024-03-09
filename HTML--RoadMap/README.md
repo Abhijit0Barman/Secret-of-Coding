@@ -1,7 +1,7 @@
 #Secret of Coding
 ##🚀🚀🚀**HTML-ROADMAP**🚀🚀🚀
 ####🔥🔥🔥**Everything you need to know about HTML is here**🔥🔥🔥
-1. ==Basic HTML Document Structure== 
+1. <mark>Basic HTML Document Structure<mark> 
    >Document Type Declaration (`<!DOCTYPE html>`): This declaration tells the browser that the document is written in HTML5, the latest version of HTML.
    HTML Element (`<html>`): The root element of an HTML document. All other elements are nested inside this element.
    Head Section (`<head>`): This section contains meta-information about the document, such as its title, character encoding, stylesheets, scripts, and other metadata.
@@ -32,25 +32,25 @@
    </body>
    </html>
    ```
-2. ==Heading Tags== 
+2. <mark>Heading Tags<mark> 
    >`<h1> <h2> <h3> <h4> <h5> <h6>` are used to define headings of different levels. 
    `<h1>` is typically the largest and most important heading, while `<h6>` is the smallest. 
    Search engines use heading tags to understand the structure and hierarchy of the content on a page
-3. ==Paragraph Tags==
+3. <mark>Paragraph Tags<mark>
    >`<p>` is used to define a paragraph of text. 
    It's a block-level element, meaning it starts on a new line and stretches out to the full width available. 
    Paragraph tags are commonly used to separate blocks of text, making the content more readable and structured.
-4. ==Image Tag==
+4. <mark>Image Tag<mark>
    >The `<img>` tag in HTML is used to embed images into a web page. 
    It's a self-closing tag, meaning it doesn't require a closing tag. 
    The `<img>` tag has several attributes that allow you to specify various properties of the image, such as its source (src), alternate text (alt), width (width), height (height), etc.
-5. ==Links Tag==
+5. <mark>Links Tag<mark>
    >The `<a>` tag in HTML is used to create hyperlinks, allowing users to navigate between web pages or to specific sections within a page. 
    Here's how the `<a>` tag works: __`<a href="URL">Link Text</a>`__ 
    href: This attribute specifies the URL (Uniform Resource Locator) of the linked document or resource. 
    It can be an absolute URL (starting with "http://" or "https://") or a relative URL (a path relative to the current document). 
    Link Text: This is the visible text or content of the hyperlink that users click on.
-6. ==Semantic Tags==
+6. <mark>Semantic Tags<mark>
    >Semantic HTML tags provide meaning to the content they encapsulate, making it clearer for both browsers and developers to understand the structure and purpose of different parts of a web page. Here are some commonly used semantic tags:
 __`<header>`__ Defines the header of a document or a section. It often contains introductory content or navigation links.
 __`<nav>`__ Represents a section of a page that links to other pages or parts within the page, typically used for navigation menus.
@@ -63,7 +63,7 @@ __`<figure>`__ Represents any content that is referenced from the main content, 
 __`<figcaption>`__ Defines a caption or legend for a `<figure>` element.
 __`<time>`__ Represents a specific point in time or a range of time, such as dates, times, or durations. It can improve accessibility and search engine indexing for temporal information.
 Using semantic tags not only improves the structure and accessibility of your web pages but also enhances search engine optimization (SEO) by providing clear cues about the meaning and relevance of different parts of your content.
-7. ==List Elements==
+7. <mark>List Elements</mark>
    HTML provides several list-related elements to organize and present information in a structured manner. 
    The main list elements are:
     Ordered List (`<ol>`): Represents a list of items where each item is sequentially numbered. 
@@ -123,7 +123,7 @@ Using semantic tags not only improves the structure and accessibility of your we
 
 
 
-8. ==Tables== 
+8. <mark>Tables<mark> 
    >Tables in HTML are used to display data in rows and columns. The main elements involved in creating tables are:
    `<table>`: This element defines the whole table.
    `<tr>`: Stands for "table row." It defines a row within the table.
@@ -162,7 +162,7 @@ Using semantic tags not only improves the structure and accessibility of your we
    For layouts, CSS is the preferred method.
 
 
-9. ==Form Elements== 
+9. <mark>Form Elements<mark> 
    >HTML provides a variety of form elements that allow users to input data and submit it to a server for processing. Here are some commonly used form elements:
    `<form>`: Defines an HTML form that collects user input. It's used to wrap all the input elements within a form.
    `<input>`: The most versatile form element, used to create various types of input fields such as text inputs, checkboxes, radio buttons, buttons, and more.
@@ -198,7 +198,7 @@ Using semantic tags not only improves the structure and accessibility of your we
    These are the basic form elements, but HTML5 also introduced new input types and attributes to enhance form validation and user experience, 
    such as type="date", type="number", type="tel", pattern, min, max, etc.
 
-10.   ==Multimedia Tags== 
+10.   <mark>Multimedia Tags<mark> 
    >HTML provides several tags to embed multimedia content such as images, audio, and video into web pages. 
    >Here are some commonly used multimedia tags:
    + `<img>`: Used to embed images into a web page.   
@@ -223,8 +223,8 @@ Using semantic tags not only improves the structure and accessibility of your we
       `</video>`
 >These tags allow web developers to enrich their web pages with various multimedia content, enhancing user experience and engagement.
 
-11.    ==Container Elements== ```<div>, <span>, <section>, <nav>, and <main>.```
-12.    ==Structuring a Web Page== ```semantic HTML elements, such as <header>, <footer>, <aside>, <nav>, <main>, etc.```
+11.    <mark>Container Elements<mark> ```<div>, <span>, <section>, <nav>, and <main>.```
+12.    <mark>Structuring a Web Page<mark> ```semantic HTML elements, such as <header>, <footer>, <aside>, <nav>, <main>, etc.```
 
 >__SEMANTIC ELEMENT :__   Semantic HTML refers to using HTML markup that provides meaning and structure to the content it represents. 
 By using semantic HTML elements, developers can convey the purpose and significance of different parts of a web page more clearly to both browsers and developers. 
