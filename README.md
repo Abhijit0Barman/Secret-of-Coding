@@ -1,6 +1,6 @@
-# Secret-of-Coding
+# Web-Devlopment-Roadmap
 
-### HTML ROADMAP
+### HTML Syllabus
 1. Basic HTML Document Structure
 2. Heading Tags
 3. Paragraph Tags
@@ -14,7 +14,7 @@
 11. Container Elements
 12. Structuring a Web Page
 
-### CSS ROADMAP
+### CSS Syllabus
 1. CSS Fundamentals
 2. Inline, Internal, and External Stylesheet Methods
 3. CSS Selectors
@@ -34,7 +34,7 @@
 17. CSS Best Practices
 18. CSS Libraries and Frameworks
 
-### Javascript ROADMAP
+### Javascript Syllabus
 1. What is Javascript?
 2. History of Javascript
 3. Var, Let, Const
@@ -103,7 +103,7 @@
 66. Jest Testing
 67. Mocha Testing
 
-### React Roadmap
+### React Syllabus
 1. CLI Tools
 2. Vite
 3. Create React app
@@ -150,7 +150,7 @@
 44. React Testing Library
 45. Snapshot Testing
 
-### Node.js Developer
+### Node.js Developer Syllabus
 1. History of Node.js?
 2. What is Node.js?
 3. Why use Node.js?
